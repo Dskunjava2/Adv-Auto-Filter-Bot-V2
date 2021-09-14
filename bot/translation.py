@@ -19,7 +19,7 @@ Bot Editor  - @DS_KUNJAVA
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
-    -> Any Dought Ask - @DS_KUNJAVA
+   -> Any Dought Ask - @DS_KUNJAVA
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -44,7 +44,8 @@ Bot Editor  - @DS_KUNJAVA
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@ds_movies1
+ഇത്രേ ഉള്ളു എന്നാ സമയം കളയണ്ട വേഗം ചാനലിലും കേറിക്കോ..!😋
+@ds_movies1 
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
