@@ -7,12 +7,12 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 Bot Creator - @DS_KUNJAVA
-Bot Editor  - @DS_KUNJAVA
+Bot Editor  - @DS_KUNJAVA 
 
 വെറുതെ നോക്കി സമയം കളയണ്ട @movie_house2 ഗ്രൂപ്പിൽ മാത്രേമേ ഈ ബോട്ട് ഉപയോഗിക്കാൻ പറ്റുകയുള്ളു..!😜😜
 ━═━═━═━═━═━═━═━═━═
-⭕️ Join our Channel - @ds_movies1 🔥
-🎖️ Join our Group   - @movie_house2 🔥
+📢ɢʀᴏᴜᴘ    :@movie_house2 🥰
+📢ᴄʜᴀɴɴᴇʟ :@ds_movies1 🥰🥰
 </i>"""    
     
     HELP_TEXT = """
