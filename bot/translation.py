@@ -27,11 +27,11 @@ Bot Editor  - @DS_KUNJAVA
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Night Fury 🖤</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/DS_KUNJAVA>Kunjava</a></i></b>
+<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ ʟᴀɴɢᴜᴀɢᴇ</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ ʟɪʙʀᴀʀʏ</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Developer</b> : <i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i>
+<b>➥ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : 🔐
 """
