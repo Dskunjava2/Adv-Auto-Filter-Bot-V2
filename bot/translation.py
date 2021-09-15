@@ -17,7 +17,7 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA�
 <b><i><u>I Know I Am A Pewer Bot 🔥!?</u></i></b>
 
 <i>
-   -> Any Dought Ask - @DS_KUNJAVA
+ -> Any Dought Ask - <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
            
 Help നെകിതല്ലേ അപ്പൊ എന്തായാലും ചാനലിലും കേറിക്കോ..!😋
 @ds_movies1 
