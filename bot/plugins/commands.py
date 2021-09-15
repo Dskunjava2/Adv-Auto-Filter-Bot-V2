@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('My Developers', url='https://t.me/DS_KUNJAVA'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Dskunjava2/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('⚜️ My Developer ⚜️', url='https://t.me/DS_KUNJAVA'),
     ],[
-        InlineKeyboardButton('Support 🙏', url='https://t.me/movie_house2')
+        InlineKeyboardButton('🔰 ɢʀᴏᴜᴘ 🔰', url ='https://t.me/movie_house2')
+        InlineKeyboardButton('⭕️ ᴄʜᴀɴɴᴇʟ ⭕️', url='https://t.me/ds_movies1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
