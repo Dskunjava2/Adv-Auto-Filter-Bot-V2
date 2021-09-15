@@ -33,5 +33,5 @@ Bot Editor  - @DS_KUNJAVA
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Creator</b> : <i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i>
+<b>➥ Developer</b> : <i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i>
 """
