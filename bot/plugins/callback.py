@@ -1600,7 +1600,7 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
+    text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto File FilterBot Bot 😋</i>\n"
     text+=f"""\n<b><i>Bot Support:</i></b> <b><a href="https://t.me/movie_house2">🔰ᴍᴏᴠɪᴇ ʜᴏᴜꜱᴇ🔰</a></b>\n"""
     text+="""\n<b><i>Source Code:</i></b> 🔐
 
