@@ -10,14 +10,14 @@ class Translation(object):
 
 നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <b><i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i></b>
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>I Know I Am A Pewer Bot 🔥!?</u></i></b>
 
 <i>
- -> Any Dought Ask - <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
+ -> Any Dought Ask - <b><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></b>
            
 Help നെകിതല്ലേ അപ്പൊ എന്തായാലും ചാനലിലും കേറിക്കോ..!😋
 @ds_movies1 
@@ -25,7 +25,7 @@ Help നെകിതല്ലേ അപ്പൊ എന്തായാലും 
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Night Fury 🖤</code>
     
-<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
+<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i></b>.
 
 <b>➥ ʟᴀɴɢᴜᴀɢᴇ</b> : <code>Python3</code>
 
