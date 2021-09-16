@@ -14,7 +14,7 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <b><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAV
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>I Know I Am A Pewer Bot 🔥!?</u></i></b>
+<b><i><u>I Know I Am A Pewer Bot 🔥</u></i></b>
 
 <i>
  -> Any Dought Ask : <b><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></b>
@@ -31,5 +31,5 @@ Help നെകിതല്ലേ അപ്പൊ എന്തായാലും 
 
 <b>➥ ʟɪʙʀᴀʀʏ</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : 🔐
+<b>➥ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : <code>Python3</code>
 """
