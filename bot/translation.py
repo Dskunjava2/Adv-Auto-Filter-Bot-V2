@@ -25,7 +25,7 @@ Help നെകിതല്ലേ അപ്പൊ എന്തായാലും 
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Night Fury 🖤</code>
     
-<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a></i></b>.
+<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <a href="https://t.me/DS_KUNJAVA">ᴰˢ᭄KUNJAVA࿐</a>
 
 <b>➥ ʟᴀɴɢᴜᴀɢᴇ</b> : <code>Python3</code>
 
